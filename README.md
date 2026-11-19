@@ -340,7 +340,7 @@ devolver ChatResponse
 
 | Integrante | Rol | Perfil |
 |---|---|---|
-| **Napoleón Jesús Rodríguez La Torre** | Backend + redes Mikrotik | Ing. Sistemas UAP Lima Norte · Consultor Mikrotik certificado (5 certificaciones internacionales) · Fundador de academia de telecomunicaciones desde 2008 (+1000 alumnos, cliente FF.AA. del Perú) |
+| **Napoleón Jesús Rodríguez La Torre** | Backend + redes Mikrotik | Ing. Sistemas UAP Lima Norte · Consultor Mikrotik certificado (5 certificaciones internacionales) · Fundador de academia de telecomunicaciones desde 2008 (+1000 alumnos, clientes, público de todo el Perú WISP - ISPs, FF.AA. del Perú, alumnos online en más de 16 paises) |
 | **Frank Nilser Simpertigue Yauri** | Co-equipamiento | Co-responsable de inscripción |
 
 **Profesor referente:** Pedro José Angulo Landaeta
