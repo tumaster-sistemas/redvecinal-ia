@@ -341,7 +341,7 @@ devolver ChatResponse
 | Integrante | Rol | Perfil |
 |---|---|---|
 | **Napoleón Jesús Rodríguez La Torre** | Backend + redes Mikrotik | Ing. Sistemas UAP Lima Norte · Consultor Mikrotik certificado (5 certificaciones internacionales) · Fundador de academia de telecomunicaciones desde 2008 (+1000 alumnos, cliente FF.AA. del Perú) |
-| **Frank Nilser Simpertigue** | Co-equipamiento | Co-responsable de inscripción |
+| **Frank Nilser Simpertigue Yauri** | Co-equipamiento | Co-responsable de inscripción |
 
 **Profesor referente:** Pedro José Angulo Landaeta
 
