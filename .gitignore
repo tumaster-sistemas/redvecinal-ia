@@ -98,3 +98,6 @@ coverage/
 mvnw
 mvnw.cmd
 .mvn/wrapper/MavenWrapperDownloader.java
+
+# Script de generación interno (no va al repo público)
+crear_backend_redvecinal.ps1
