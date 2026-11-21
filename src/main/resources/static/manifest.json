@@ -1,0 +1,13 @@
+{
+    "name": "Red Vecinal IA",
+    "short_name": "RedVecinal",
+    "description": "Asistente vecinal con IA para Villa El Salvador",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F5F7FA",
+    "theme_color": "#1A2330",
+    "orientation": "portrait",
+    "lang": "es",
+    "categories": ["productivity", "social"],
+    "icons": []
+}

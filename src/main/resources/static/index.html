@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#1A2330">
+    <meta name="description" content="Asistente vecinal con IA para Villa El Salvador">
+    <title>Red Vecinal IA</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Red Vecinal IA</h1>
+        <p>Asistente vecinal - Villa El Salvador</p>
+    </header>
+
+    <nav id="categorias">
+        <button data-cat="Tramite" class="active">Tramite</button>
+        <button data-cat="Salud">Salud</button>
+        <button data-cat="Empleo">Empleo</button>
+        <button data-cat="Denuncia">Denuncia</button>
+        <button data-cat="Servicios">Servicios</button>
+    </nav>
+
+    <main id="chat">
+        <div class="mensaje asistente">
+            <div class="burbuja">
+                Hola, soy el asistente de la Red Vecinal IA. Puedo ayudarte con tramites municipales, salud, empleo, denuncia ciudadana y servicios publicos en Villa El Salvador. En que te puedo ayudar?
+            </div>
+        </div>
+    </main>
+
+    <div id="escribiendo" class="oculto">
+        <span></span><span></span><span></span>
+    </div>
+
+    <form id="form-chat">
+        <input type="text" id="input-mensaje" placeholder="Escribe tu consulta..." autocomplete="off" autofocus>
+        <button type="submit">Enviar</button>
+    </form>
+
+    <script src="app.js"></script>
+</body>
+</html>

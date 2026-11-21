@@ -63,6 +63,10 @@ public class DataInitializer implements CommandLineRunner {
             "Vi robos cerca del mercado a quien llamo",
             "Si hay delito en curso, marca 105 (PNP). Para denuncias formales, acude a la comisaria de VES. Tambien puedes contactar al serenazgo de VES para patrullaje inmediato en la zona."));
 
+	faqRepository.save(crearFaq("Denuncia",
+    	"Como denuncio violencia familiar",
+    	"Si sufres violencia familiar o conoces a alguien en esa situacion, tienes estas opciones:\n\n1. Linea 100 del MIMP (gratis, 24 horas, confidencial): marca 100 desde cualquier telefono.\n2. Comisaria de Villa El Salvador (PNP): para presentar la denuncia formal. Lleva tu DNI.\n3. Centro de Emergencia Mujer (CEM) de Villa El Salvador: atencion psicologica y legal gratuita del MIMP.\n\nSi hay peligro inminente, marca 105 (PNP) o 106 (SAMU) para ayuda inmediata."));
+
         faqRepository.save(crearFaq("Servicios",
             "No tengo agua hace 3 dias en la AAHH Union como reporto a Sedapal",
             "Llama al 119 (atencion Sedapal 24 horas) o reporta en sedapal.com.pe, seccion Reporte de averias. Indica tu direccion exacta y el tiempo sin servicio."));
